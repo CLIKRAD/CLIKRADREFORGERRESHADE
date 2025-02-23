@@ -5,5 +5,5 @@ Then When Installing Reshade It Will Ask You What Apps / Games You want to insta
 When asked what tools you want to download/use make sure you choose and tick all boxes for these tools - Color Effects By PROD80 / Leggacy Effects.
 Download the ZIP file from this page (look for the drop down code highlighted green. Extract the files.
 Take my reshade and put it inside this folder... D:\SteamLibrary\steamapps\common\Arma Reforger.
-When in gamme use HOME key to get reshade UI up.
+When in game use HOME key to get reshade UI up. Hotkey Effects to END key to see it on and off easier.
 Select my reshade from the top drop down menu. Enjoy. 
